@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="887efa52-2205-4b72-a75a-c30af6818a58" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/second.groovy" afterPath="$PROJECT_DIR$/scripts/second.groovy" />
     </list>
     <ignored path="play-groovy-sql.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +51,8 @@
       <file leaf-file-name="second.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/second.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -497,7 +498,7 @@
       <updated>1477749944436</updated>
       <workItem from="1477749949929" duration="3537000" />
       <workItem from="1477761505660" duration="3291000" />
-      <workItem from="1477783404539" duration="4731000" />
+      <workItem from="1477783404539" duration="5128000" />
     </task>
     <task id="LOCAL-00001" summary="Small step forward.">
       <created>1477787725023</created>
@@ -527,11 +528,25 @@
       <option name="project" value="LOCAL" />
       <updated>1477788100121</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;scripts/second.groovy&#10;">
+      <created>1477788146272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1477788146272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Minor bug fix.">
+      <created>1477788442254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1477788442254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11559000" />
+    <option name="totallyTimeSpent" value="11956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1176" extended-state="6" />
@@ -581,7 +596,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Small step forward." />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;scripts/second.groovy&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;scripts/second.groovy&#10;" />
+    <MESSAGE value="Minor bug fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor bug fix." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -675,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/second.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>

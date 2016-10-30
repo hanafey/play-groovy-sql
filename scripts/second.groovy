@@ -18,7 +18,7 @@ FROM ASSOCIATION_TEST
 
 if (!(options.user && options.pw && options.cmd && queries[options.cmd])) {
     cli.usage()
-    exit 1
+    System.exit(1)
 }
 
 def sql = Sql.newInstance("jdbc:oracle:thin:@//esoravm4.es.dupont.com:1521/appspd", options.user, options.pw)
