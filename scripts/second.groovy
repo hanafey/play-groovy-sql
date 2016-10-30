@@ -17,7 +17,7 @@ FROM ASSOCIATION_TEST
 ]
 
 if (!(options.user && options.pw && options.cmd && queries[options.cmd])) {
-    usage()
+    cli.usage()
     exit 1
 }
 
